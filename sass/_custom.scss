@@ -1,0 +1,65 @@
+// Your custom SCSS should be written here...
+
+#hero {
+    border: solid 1px red;
+    /*background-image:url(../img/disposeallRough.jpg);
+    height:690px;
+    background-position: center;
+    background-size:cover;
+    background-repeat:no-repeat; */
+    text-align:centre;
+    
+}
+
+#attention {
+    text-align:center;
+}
+
+.btn {
+    display: table;
+    padding-bottom:10px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 15px;
+   
+}
+
+
+#services {
+ border: solid 1px red;
+ text-align:center;
+}
+
+i {
+    font-size: 48px;
+}
+
+
+#rates {
+    border: solid 1px red;
+}
+
+#rates ul {
+    height:100px;
+    border: solid 1px black;
+    text-align:center;
+}
+
+section.price {
+    background-color: yellow;
+    height: 260px;
+    margin-bottom:25px;
+    margin-top:25px;
+}
+
+
+
+#testimonials {
+    border: solid 1px red;
+    text-align:center;
+}
+
+
+.row {
+    border: solid 1px red;
+}
